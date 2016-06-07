@@ -1,0 +1,354 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="saleshypedark.com" resolutions="1x,2x" timestamp="1453829403347">
+  <folder name="css">
+    <file name="site_global.css" crc="3897060426"/>
+    <file name="master_a-master.css" crc="4058965697" ref="about-us:price:features:gallery:contact:product:stores:index"/>
+    <file name="about-us.css" crc="431966164" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="4017739134" ref="about-us"/>
+    <file name="price.css" crc="431966164" ref="price"/>
+    <file name="iefonts_price.css" crc="4017739134" ref="price"/>
+    <file name="features.css" crc="431966164" ref="features"/>
+    <file name="iefonts_features.css" crc="4017739134" ref="features"/>
+    <file name="gallery.css" crc="431966164" ref="gallery"/>
+    <file name="iefonts_gallery.css" crc="4017739134" ref="gallery"/>
+    <file name="contact.css" crc="431966164" ref="contact"/>
+    <file name="iefonts_contact.css" crc="4017739134" ref="contact"/>
+    <file name="product.css" crc="431966164" ref="product"/>
+    <file name="iefonts_product.css" crc="4017739134" ref="product"/>
+    <file name="stores.css" crc="431966164" ref="stores"/>
+    <file name="iefonts_stores.css" crc="4017739134" ref="stores"/>
+    <file name="index.css" crc="3886439928" ref="index"/>
+    <file name="iefonts_index.css" crc="4130223049" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fontawesome-webfont.woff" crc="46680941"/>
+    <file name="fontawesome-webfont.eot" crc="120927976"/>
+    <file name="fontawesome-webfont.svg" crc="486128287"/>
+  </folder>
+  <folder name="assets">
+    <file name="customcss.css" crc="524957556" seo="true" mt="1449822366000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact:tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact:gallery:product:index:about-us:contact:stores:features:price"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact:tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact:gallery:product:index:about-us:contact:stores:features:price"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:tablet>index:gallery:index"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact:tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact:gallery:product:index:about-us:contact:stores:features:price"/>
+    <file name="webpro.js" crc="3883484123" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact:tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact:index"/>
+    <file name="musewpdisclosure.js" crc="404074387" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact:tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact:tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact:gallery:product:index:about-us:contact:stores:features:price"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:tablet>index:index"/>
+    <file name="form_check.php" crc="3932029206" ref="phone>index:tablet>index:index"/>
+    <file name="form_throttle.php" crc="314685628" ref="phone>index:tablet>index:index"/>
+    <file name="form_process.php" crc="401030677" ref="phone>index:tablet>index:index"/>
+    <file name="form-u11852.php" crc="54224626" ref="phone>index"/>
+    <file name="museredirect.js" crc="3899419633" ref="tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact:gallery:product:index:about-us:contact:stores:features:price"/>
+    <file name="form-u11768.php" crc="4005296810" ref="tablet>index"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="gallery:product:index:about-us:contact:stores:features:price"/>
+    <file name="html5shiv.js" crc="4241844378" ref="gallery:product:index:about-us:contact:stores:features:price"/>
+    <file name="form-u8520.php" crc="4144357684" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="280418781" ref="phone>index:tablet>index"/>
+    <file name="logo-ieu9840-fr.png" crc="206532071" ref="phone>index"/>
+    <file name="logo.png" crc="416681603" ref="phone>index:tablet>index:gallery:index"/>
+    <file name="logo-ieu9840-fr2.png" crc="4159518080" ref="phone>index"/>
+    <file name="logo_2x.png" crc="7134273" ref="phone>index:tablet>index:gallery:index"/>
+    <file name="u9830.png" crc="3865211432" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9830-r.png" crc="313752870" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9830_2x.png" crc="167574767" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9830-r_2x.png" crc="184528449" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9824.png" crc="3865211432" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9824-r.png" crc="313752870" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9824_2x.png" crc="167574767" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9824-r_2x.png" crc="184528449" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9833.png" crc="3865211432" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9833-r.png" crc="313752870" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9833_2x.png" crc="167574767" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9833-r_2x.png" crc="184528449" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9818.png" crc="3865211432" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9818-r.png" crc="313752870" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9818_2x.png" crc="167574767" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9818-r_2x.png" crc="184528449" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9836.png" crc="3865211432" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9836-r.png" crc="313752870" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9836_2x.png" crc="167574767" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9836-r_2x.png" crc="184528449" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9822.png" crc="3865211432" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9822-r.png" crc="313752870" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9822_2x.png" crc="167574767" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9822-r_2x.png" crc="184528449" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9827.png" crc="3865211432" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9827-r.png" crc="313752870" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9827_2x.png" crc="167574767" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9827-r_2x.png" crc="184528449" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9816.png" crc="3865211432" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9816-r.png" crc="313752870" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9816_2x.png" crc="167574767" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="u9816-r_2x.png" crc="184528449" ref="phone>index:phone>product:phone>about-us:phone>features:phone>gallery:phone>stores:phone>price:phone>contact"/>
+    <file name="slider-1.jpg" crc="3867720811" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="slider-2.jpg" crc="3867720811" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="slider-3.jpg" crc="4190845773" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="product450x267.jpg" crc="11366325" seo="true" ref="phone>index:tablet>index"/>
+    <file name="product450x267_2x.jpg" crc="4025718784" seo="true" ref="phone>index:tablet>index"/>
+    <file name="about.jpg" crc="24380726" ref="phone>index"/>
+    <file name="logo1.png" crc="2071315" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="logo1_2x.png" crc="347466281" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="feature-1.jpg" crc="4070663521" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="feature-1_2x.jpg" crc="3864713869" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="feature-2.jpg" crc="4070663521" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="feature-2_2x.jpg" crc="3864713869" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="feature-3.jpg" crc="4070663521" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="feature-3_2x.jpg" crc="3864713869" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="1.jpg" crc="4212922634" ref="phone>index:tablet>index:index"/>
+    <file name="2.jpg" crc="98584426" ref="phone>index:tablet>index:index"/>
+    <file name="3-u9953-fr.jpg" crc="145878389" ref="phone>index"/>
+    <file name="3-u9953-fr_2x.jpg" crc="196216549" ref="phone>index"/>
+    <file name="4-u9950-fr.jpg" crc="3837647271" ref="phone>index"/>
+    <file name="4-u9950-fr_2x.jpg" crc="315304942" ref="phone>index"/>
+    <file name="5-u9949-fr.jpg" crc="527292322" ref="phone>index"/>
+    <file name="5-u9949-fr_2x.jpg" crc="3890181549" ref="phone>index"/>
+    <file name="6-u9948-fr.jpg" crc="3883736372" ref="phone>index"/>
+    <file name="6-u9948-fr_2x.jpg" crc="3843536347" ref="phone>index"/>
+    <file name="5-ieu9969-fr.png" crc="314087017" ref="phone>index"/>
+    <file name="5.jpg" crc="4019246697" ref="phone>index:tablet>index:index"/>
+    <file name="5-ieu9969-fr2.png" crc="32116088" ref="phone>index"/>
+    <file name="5_2x.jpg" crc="4019246697" ref="phone>index:tablet>index:index"/>
+    <file name="1-u9969-fr.png" crc="4216115754" ref="phone>index"/>
+    <file name="stores.jpg" crc="20935898" ref="phone>index:tablet>index:index"/>
+    <file name="logo-amazon-bw-u9997-fr.png" crc="4036165017" ref="phone>index"/>
+    <file name="logo-amazon-bw-u9997-fr_2x.png" crc="487803242" ref="phone>index"/>
+    <file name="logo-amazon-u9997-r-fr.png" crc="3938981023" ref="phone>index"/>
+    <file name="logo-amazon-u9997-r-fr_2x.png" crc="3811405071" ref="phone>index"/>
+    <file name="logo-ebay-bw-u9998-fr.png" crc="407622418" ref="phone>index"/>
+    <file name="logo-ebay-bw-u9998-fr_2x.png" crc="119386506" ref="phone>index"/>
+    <file name="logo-ebay-u9998-r-fr.png" crc="7548530" ref="phone>index"/>
+    <file name="logo-ebay-u9998-r-fr_2x.png" crc="3891953268" ref="phone>index"/>
+    <file name="logo-target-bw-u10000-fr.png" crc="4160263504" ref="phone>index"/>
+    <file name="logo-target-bw-u10000-fr_2x.png" crc="3924141499" ref="phone>index"/>
+    <file name="logo-target-u10000-r-fr.png" crc="4240556394" ref="phone>index"/>
+    <file name="logo-target-u10000-r-fr_2x.png" crc="4053096769" ref="phone>index"/>
+    <file name="logo-bestbuy-bw-u10002-fr.png" crc="351139557" ref="phone>index"/>
+    <file name="logo-bestbuy-bw-u10002-fr_2x.png" crc="4171576311" ref="phone>index"/>
+    <file name="logo-bestbuy-u10002-r-fr.png" crc="3832950809" ref="phone>index"/>
+    <file name="logo-bestbuy-u10002-r-fr_2x.png" crc="25273131" ref="phone>index"/>
+    <file name="logo-walmart-bw-u10003-fr.png" crc="338677084" ref="phone>index"/>
+    <file name="logo-walmart-bw-u10003-fr_2x.png" crc="3867271789" ref="phone>index"/>
+    <file name="logo-walmart-u10003-r-fr.png" crc="3930339096" ref="phone>index"/>
+    <file name="logo-walmart-u10003-r-fr_2x.png" crc="44453845" ref="phone>index"/>
+    <file name="logo-alibaba-bw-u10004-fr.png" crc="145109957" ref="phone>index"/>
+    <file name="logo-alibaba-bw-u10004-fr_2x.png" crc="435273392" ref="phone>index"/>
+    <file name="logo-alibaba-u10004-r-fr.png" crc="254000250" ref="phone>index"/>
+    <file name="logo-alibaba-u10004-r-fr_2x.png" crc="4220878173" ref="phone>index"/>
+    <file name="logo-appstore-bw-u10001-fr.png" crc="3978232524" ref="phone>index"/>
+    <file name="logo-appstore-bw-u10001-fr_2x.png" crc="4275375413" ref="phone>index"/>
+    <file name="logo-appstore-u10001-r-fr.png" crc="4253220925" ref="phone>index"/>
+    <file name="logo-appstore-u10001-r-fr_2x.png" crc="405255306" ref="phone>index"/>
+    <file name="logo-google-bw-u10005-fr.png" crc="5594233" ref="phone>index"/>
+    <file name="logo-google-bw-u10005-fr_2x.png" crc="314522038" ref="phone>index"/>
+    <file name="logo-google-u10005-r-fr.png" crc="4218946742" ref="phone>index"/>
+    <file name="logo-google-u10005-r-fr_2x.png" crc="4268900030" ref="phone>index"/>
+    <file name="footer_lodyas.jpg" crc="4046041711" ref="phone>index:tablet>index:index"/>
+    <file name="footer_lodyas_2x.jpg" crc="286993774" ref="phone>index:tablet>index:index"/>
+    <file name="pin-u11851-fr.png" crc="4047230332" ref="phone>index"/>
+    <file name="pin-u11851-fr_2x.png" crc="87301434" ref="phone>index"/>
+    <file name="phone-u11846-fr.png" crc="4215604897" ref="phone>index"/>
+    <file name="phone-u11846-fr_2x.png" crc="4167537641" ref="phone>index"/>
+    <file name="icon-send-u11863-13.png" crc="4038888924" ref="phone>index"/>
+    <file name="icon-send-hover-u11863-13-r.png" crc="4270129400" ref="phone>index"/>
+    <file name="icon-send-hover-u11863-13-m.png" crc="4270129400" ref="phone>index"/>
+    <file name="icon-send-hover-u11863-13-fs.png" crc="4270129400" ref="phone>index"/>
+    <file name="icon-send-u11863-13_2x.png" crc="22993876" ref="phone>index"/>
+    <file name="icon-send-hover-u11863-13-r_2x.png" crc="78937553" ref="phone>index"/>
+    <file name="icon-send-hover-u11863-13-m_2x.png" crc="78937553" ref="phone>index"/>
+    <file name="icon-send-hover-u11863-13-fs_2x.png" crc="78937553" ref="phone>index"/>
+    <file name="logo-ieu9068-fr.png" crc="206532071" ref="tablet>index"/>
+    <file name="u9034.png" crc="4288286423" ref="tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact"/>
+    <file name="u9034_2x.png" crc="4215089882" ref="tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact"/>
+    <file name="u9025.png" crc="4288286423" ref="tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact"/>
+    <file name="u9025_2x.png" crc="4215089882" ref="tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact"/>
+    <file name="u9027.png" crc="4288286423" ref="tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact"/>
+    <file name="u9027_2x.png" crc="4215089882" ref="tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact"/>
+    <file name="u9031.png" crc="4288286423" ref="tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact"/>
+    <file name="u9031_2x.png" crc="4215089882" ref="tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact"/>
+    <file name="u9036.png" crc="4288286423" ref="tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact"/>
+    <file name="u9036_2x.png" crc="4215089882" ref="tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact"/>
+    <file name="u9039.png" crc="4288286423" ref="tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact"/>
+    <file name="u9039_2x.png" crc="4215089882" ref="tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact"/>
+    <file name="u9081.png" crc="4288286423" ref="tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact"/>
+    <file name="u9081_2x.png" crc="4215089882" ref="tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact"/>
+    <file name="u9084.png" crc="4288286423" ref="tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact"/>
+    <file name="u9084_2x.png" crc="4215089882" ref="tablet>index:tablet>product:tablet>about-us:tablet>features:tablet>gallery:tablet>stores:tablet>price:tablet>contact"/>
+    <file name="triger-u9115.png" crc="19260450" ref="tablet>index"/>
+    <file name="triger-u9115-r.png" crc="435299158" ref="tablet>index"/>
+    <file name="triger-u9115-a.png" crc="401380306" ref="tablet>index"/>
+    <file name="triger-u9115_2x.png" crc="517431881" ref="tablet>index"/>
+    <file name="triger-u9115-r_2x.png" crc="3784500078" ref="tablet>index"/>
+    <file name="triger-u9115-a_2x.png" crc="31778348" ref="tablet>index"/>
+    <file name="triger-u9111.png" crc="19260450" ref="tablet>index"/>
+    <file name="triger-u9111-r.png" crc="435299158" ref="tablet>index"/>
+    <file name="triger-u9111-a.png" crc="401380306" ref="tablet>index"/>
+    <file name="triger-u9111_2x.png" crc="517431881" ref="tablet>index"/>
+    <file name="triger-u9111-r_2x.png" crc="3784500078" ref="tablet>index"/>
+    <file name="triger-u9111-a_2x.png" crc="31778348" ref="tablet>index"/>
+    <file name="triger-u9113.png" crc="19260450" ref="tablet>index"/>
+    <file name="triger-u9113-r.png" crc="435299158" ref="tablet>index"/>
+    <file name="triger-u9113-a.png" crc="401380306" ref="tablet>index"/>
+    <file name="triger-u9113_2x.png" crc="517431881" ref="tablet>index"/>
+    <file name="triger-u9113-r_2x.png" crc="3784500078" ref="tablet>index"/>
+    <file name="triger-u9113-a_2x.png" crc="31778348" ref="tablet>index"/>
+    <file name="3.jpg" crc="504316617" ref="tablet>index:index"/>
+    <file name="4.jpg" crc="4263691917" ref="tablet>index:index"/>
+    <file name="52.jpg" crc="279771426" ref="tablet>index:index"/>
+    <file name="6.jpg" crc="327370348" ref="tablet>index:index"/>
+    <file name="logo-amazon-bw-u9289-fr.png" crc="74376150" ref="tablet>index:index"/>
+    <file name="logo-amazon-bw-u9289-fr_2x.png" crc="3970891062" ref="tablet>index:index"/>
+    <file name="logo-amazon-u9289-r-fr.png" crc="4155168334" ref="tablet>index:index"/>
+    <file name="logo-amazon-u9289-r-fr_2x.png" crc="312167998" ref="tablet>index:index"/>
+    <file name="logo-ebay-bw-u9290-fr.png" crc="3993723254" ref="tablet>index:index"/>
+    <file name="logo-ebay-bw-u9290-fr_2x.png" crc="4194382276" ref="tablet>index:index"/>
+    <file name="logo-ebay-u9290-r-fr.png" crc="515611775" ref="tablet>index:index"/>
+    <file name="logo-ebay-u9290-r-fr_2x.png" crc="4000763063" ref="tablet>index:index"/>
+    <file name="logo-target-bw-u9288-fr.png" crc="4079476561" ref="tablet>index:index"/>
+    <file name="logo-target-bw-u9288-fr_2x.png" crc="3905475938" ref="tablet>index:index"/>
+    <file name="logo-target-u9288-r-fr.png" crc="72624609" ref="tablet>index:index"/>
+    <file name="logo-target-u9288-r-fr_2x.png" crc="399834214" ref="tablet>index:index"/>
+    <file name="logo-bestbuy-bw-u9292-fr.png" crc="3892902654" ref="tablet>index:index"/>
+    <file name="logo-bestbuy-bw-u9292-fr_2x.png" crc="3794800426" ref="tablet>index:index"/>
+    <file name="logo-bestbuy-u9292-r-fr.png" crc="320460007" ref="tablet>index:index"/>
+    <file name="logo-bestbuy-u9292-r-fr_2x.png" crc="3991349751" ref="tablet>index:index"/>
+    <file name="logo-walmart-bw-u9291-fr.png" crc="4064513228" ref="tablet>index:index"/>
+    <file name="logo-walmart-bw-u9291-fr_2x.png" crc="4012332189" ref="tablet>index:index"/>
+    <file name="logo-walmart-u9291-r-fr.png" crc="4060091539" ref="tablet>index:index"/>
+    <file name="logo-walmart-u9291-r-fr_2x.png" crc="3827040755" ref="tablet>index:index"/>
+    <file name="logo-alibaba-bw-u9294-fr.png" crc="4031392392" ref="tablet>index:index"/>
+    <file name="logo-alibaba-bw-u9294-fr_2x.png" crc="4078169417" ref="tablet>index:index"/>
+    <file name="logo-alibaba-u9294-r-fr.png" crc="205797078" ref="tablet>index:index"/>
+    <file name="logo-alibaba-u9294-r-fr_2x.png" crc="199790672" ref="tablet>index:index"/>
+    <file name="logo-appstore-bw-u9287-fr.png" crc="4140767590" ref="tablet>index:index"/>
+    <file name="logo-appstore-bw-u9287-fr_2x.png" crc="3873195933" ref="tablet>index:index"/>
+    <file name="logo-appstore-u9287-r-fr.png" crc="444740883" ref="tablet>index:index"/>
+    <file name="logo-appstore-u9287-r-fr_2x.png" crc="213683485" ref="tablet>index:index"/>
+    <file name="logo-google-bw-u9293-fr.png" crc="48612394" ref="tablet>index:index"/>
+    <file name="logo-google-bw-u9293-fr_2x.png" crc="206963046" ref="tablet>index:index"/>
+    <file name="logo-google-u9293-r-fr.png" crc="308954904" ref="tablet>index:index"/>
+    <file name="logo-google-u9293-r-fr_2x.png" crc="3909527165" ref="tablet>index:index"/>
+    <file name="pin.png" crc="136736294" ref="tablet>index:index"/>
+    <file name="pin_2x.png" crc="4142995619" ref="tablet>index:index"/>
+    <file name="phone.png" crc="382767920" ref="tablet>index:index"/>
+    <file name="phone_2x.png" crc="4049916210" ref="tablet>index:index"/>
+    <file name="icon-send-u11769-13.png" crc="384563817" ref="tablet>index"/>
+    <file name="icon-send-hover-u11769-13-r.png" crc="535704188" ref="tablet>index"/>
+    <file name="icon-send-hover-u11769-13-m.png" crc="535704188" ref="tablet>index"/>
+    <file name="icon-send-hover-u11769-13-fs.png" crc="535704188" ref="tablet>index"/>
+    <file name="icon-send-u11769-13_2x.png" crc="134443223" ref="tablet>index"/>
+    <file name="icon-send-hover-u11769-13-r_2x.png" crc="4153810095" ref="tablet>index"/>
+    <file name="icon-send-hover-u11769-13-m_2x.png" crc="4153810095" ref="tablet>index"/>
+    <file name="icon-send-hover-u11769-13-fs_2x.png" crc="4153810095" ref="tablet>index"/>
+    <file name="product.jpg" crc="4135894062" seo="true" ref="index"/>
+    <file name="triger-u3201.png" crc="19260450" ref="index"/>
+    <file name="triger-u3201-r.png" crc="435299158" ref="index"/>
+    <file name="u3201-a.png" crc="514582600" ref="index"/>
+    <file name="triger-u3201_2x.png" crc="3789214025" ref="index"/>
+    <file name="triger-u3201-r_2x.png" crc="132932360" ref="index"/>
+    <file name="u3201-a_2x.png" crc="42346668" ref="index"/>
+    <file name="triger-u7755.png" crc="19260450" ref="index"/>
+    <file name="triger-u7755-r.png" crc="435299158" ref="index"/>
+    <file name="u7755-a.png" crc="514582600" ref="index"/>
+    <file name="triger-u7755_2x.png" crc="3789214025" ref="index"/>
+    <file name="triger-u7755-r_2x.png" crc="132932360" ref="index"/>
+    <file name="u7755-a_2x.png" crc="42346668" ref="index"/>
+    <file name="triger-u8411.png" crc="19260450" ref="index"/>
+    <file name="triger-u8411-r.png" crc="435299158" ref="index"/>
+    <file name="u8411-a.png" crc="514582600" ref="index"/>
+    <file name="triger-u8411_2x.png" crc="3789214025" ref="index"/>
+    <file name="triger-u8411-r_2x.png" crc="132932360" ref="index"/>
+    <file name="u8411-a_2x.png" crc="42346668" ref="index"/>
+    <file name="1-u6306-fr.png" crc="4222900887" ref="index"/>
+    <file name="3-buttonu6302-fr.png" crc="180133930" ref="index"/>
+    <file name="3-buttonu6302-fr_2x.png" crc="209944829" ref="index"/>
+    <file name="bg-contact.jpg" crc="4190845773" ref="index"/>
+    <file name="icon-send-u8525-13.png" crc="384563817" ref="index"/>
+    <file name="icon-send-hover-u8525-13-r.png" crc="535704188" ref="index"/>
+    <file name="icon-send-hover-u8525-13-m.png" crc="535704188" ref="index"/>
+    <file name="icon-send-hover-u8525-13-fs.png" crc="535704188" ref="index"/>
+    <file name="icon-send-u8525-13_2x.png" crc="134443223" ref="index"/>
+    <file name="icon-send-hover-u8525-13-r_2x.png" crc="4153810095" ref="index"/>
+    <file name="icon-send-hover-u8525-13-m_2x.png" crc="4153810095" ref="index"/>
+    <file name="icon-send-hover-u8525-13-fs_2x.png" crc="4153810095" ref="index"/>
+    <file name="logo-ieu9068-fr2.png" crc="3982844482" ref="tablet>index"/>
+    <file name="about-2-u9178-fr.png" crc="4159593984" ref="tablet>index:index"/>
+    <file name="5-ieu9278-fr.png" crc="314087017" ref="tablet>index:index"/>
+    <file name="5-ieu9278-fr2.png" crc="32116088" ref="tablet>index:index"/>
+    <file name="1-u9278-fr.png" crc="4216115754" ref="tablet>index:index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="395197370" ref="tablet>features:tablet>contact:tablet>product:tablet>gallery:tablet>index:tablet>price:tablet>about-us:tablet>stores"/>
+      <file name="features.css" crc="456571936" ref="tablet>features"/>
+      <file name="iefonts_features.css" crc="244032788" ref="tablet>features"/>
+      <file name="contact.css" crc="456571936" ref="tablet>contact"/>
+      <file name="iefonts_contact.css" crc="244032788" ref="tablet>contact"/>
+      <file name="product.css" crc="456571936" ref="tablet>product"/>
+      <file name="iefonts_product.css" crc="244032788" ref="tablet>product"/>
+      <file name="gallery.css" crc="456571936" ref="tablet>gallery"/>
+      <file name="iefonts_gallery.css" crc="244032788" ref="tablet>gallery"/>
+      <file name="index.css" crc="4085386518" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="3979083002" ref="tablet>index"/>
+      <file name="price.css" crc="456571936" ref="tablet>price"/>
+      <file name="iefonts_price.css" crc="244032788" ref="tablet>price"/>
+      <file name="about-us.css" crc="456571936" ref="tablet>about-us"/>
+      <file name="iefonts_about-us.css" crc="244032788" ref="tablet>about-us"/>
+      <file name="stores.css" crc="456571936" ref="tablet>stores"/>
+      <file name="iefonts_stores.css" crc="244032788" ref="tablet>stores"/>
+    </folder>
+    <file name="index.html" crc="368629073" seo="true" mt="1453829323936" redirect="true"/>
+    <file name="product.html" crc="3896912676" seo="true" mt="1450973501106" redirect="true"/>
+    <file name="about-us.html" crc="3976030227" seo="true" mt="1450973501106" redirect="true"/>
+    <file name="features.html" crc="213424667" seo="true" mt="1450973501106" redirect="true"/>
+    <file name="gallery.html" crc="83242892" seo="true" mt="1450973501106" redirect="true"/>
+    <file name="stores.html" crc="478237922" seo="true" mt="1450973501106" redirect="true"/>
+    <file name="price.html" crc="301563714" seo="true" mt="1450973501107" redirect="true"/>
+    <file name="contact.html" crc="4174635156" seo="true" mt="1450973501107" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="63480997" ref="phone>contact:phone>features:phone>price:phone>about-us:phone>gallery:phone>index:phone>product:phone>stores"/>
+      <file name="contact.css" crc="4007871816" ref="phone>contact"/>
+      <file name="iefonts_contact.css" crc="3827498138" ref="phone>contact"/>
+      <file name="features.css" crc="4007871816" ref="phone>features"/>
+      <file name="iefonts_features.css" crc="3827498138" ref="phone>features"/>
+      <file name="price.css" crc="4007871816" ref="phone>price"/>
+      <file name="iefonts_price.css" crc="3827498138" ref="phone>price"/>
+      <file name="about-us.css" crc="4007871816" ref="phone>about-us"/>
+      <file name="iefonts_about-us.css" crc="3827498138" ref="phone>about-us"/>
+      <file name="gallery.css" crc="4007871816" ref="phone>gallery"/>
+      <file name="iefonts_gallery.css" crc="3827498138" ref="phone>gallery"/>
+      <file name="index.css" crc="186622115" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="90178676" ref="phone>index"/>
+      <file name="product.css" crc="4007871816" ref="phone>product"/>
+      <file name="iefonts_product.css" crc="3827498138" ref="phone>product"/>
+      <file name="stores.css" crc="4007871816" ref="phone>stores"/>
+      <file name="iefonts_stores.css" crc="3827498138" ref="phone>stores"/>
+    </folder>
+    <file name="index.html" crc="4266314930" seo="true" mt="1450985270135" redirect="true"/>
+    <file name="product.html" crc="4131836986" seo="true" mt="1450973501107" redirect="true"/>
+    <file name="about-us.html" crc="3060586" seo="true" mt="1450973501108" redirect="true"/>
+    <file name="features.html" crc="4095149529" seo="true" mt="1450973501108" redirect="true"/>
+    <file name="gallery.html" crc="3915848350" seo="true" mt="1450973501108" redirect="true"/>
+    <file name="stores.html" crc="3846943304" seo="true" mt="1450973501108" redirect="true"/>
+    <file name="price.html" crc="107649574" seo="true" mt="1450973501108" redirect="true"/>
+    <file name="contact.html" crc="391595536" seo="true" mt="1450973501108" redirect="true"/>
+  </folder>
+  <file name="gallery.html" crc="3906914759" seo="true" mt="1450973500145" redirect="true"/>
+  <file name="product.html" crc="3936699638" seo="true" mt="1450973500146" redirect="true"/>
+  <file name="index.html" crc="3917107320" seo="true" mt="1453829249213" redirect="true"/>
+  <file name="about-us.html" crc="3800030384" seo="true" mt="1450973501104" redirect="true"/>
+  <file name="contact.html" crc="3843086871" seo="true" mt="1450973501105" redirect="true"/>
+  <file name="stores.html" crc="3776332794" seo="true" mt="1450973501105" redirect="true"/>
+  <file name="features.html" crc="365801201" seo="true" mt="1450973501105" redirect="true"/>
+  <file name="price.html" crc="110206634" seo="true" mt="1450973501105" redirect="true"/>
+</manifest>
